@@ -19,11 +19,11 @@
     The user will require Node.js , File system and the inquirer module afterwhich users can clone the repository from Github and run the index.js in the terminal.
   
     ## Usage 
-    Users can use the terminal to answer questions about their project with Inquirer. 
+    Users can use the terminal to answer questions about their project with Inquirer. The responses will 
 
 
     ## Screenshot
-![Alt Text] (![Alt Text] ((![Alt Text] (./assets/gif/your Gif here))))
+![Alt Text] (./assets/gif/your Gif here)
 
   
     ## License 
@@ -36,4 +36,4 @@
     npm test using the Jest Testing Framework
   
     ## Questions
-    If you have any questions about this project, please contact me directly at John.Doe@gmail.com. Feel free to view more of my projects at https://github.com/MakeRedundant.
+    If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/MakeRedundant.
