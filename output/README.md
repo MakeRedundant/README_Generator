@@ -1,36 +1,37 @@
-# dada
-    ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-  
+# ReadMe Generator 
+![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+![Inquirer Version](https://img.shields.io/badge/Inquirer-8.2.4-blue.svg)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-100%25-yellow.svg)
     
-    ## Description 
-    afa
-  
-    ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * 
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
-    
-    ## Installation 
-    faf
-  
-    ## Usage 
-    faf
+ ## Description 
+Professional ReadMe Generator for projects   
 
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Screenshot](#screenshot)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)    
 
-    
-  
-    ## License 
-    This project is license under MIT
-  
-    ## Contributing 
-    fa
-  
-    ## Tests
-    fafa
-  
-    ## Questions
-    If you have any questions about this project, please contact me directly at dad@. Feel free to view more of my projects at https://github.com/da.
+## Installation 
+The user will require Node.js , File system and the inquirer module and should clone the repository from Github 
+
+## Usage 
+Users can use the terminal to answer questions about their project 
+
+## Screenshot
+![Alt Text] ((![Alt Text] (./assets/gif/your Gif here)))  
+
+## License 
+This project is license under MIT  
+
+## Contributing 
+Users can contribute suggestions and other helpful additions to the project   
+
+## Tests
+npm test using the Jest Testing Framework 
+
+## Questions
+If you have any questions about this project, please contact me directly at John.Doe@gmail.com. Feel free to view more of my projects at https://github.com/MakeRedundant.
