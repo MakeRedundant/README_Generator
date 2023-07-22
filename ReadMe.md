@@ -25,7 +25,7 @@ be saved and a ReadMe file will be generated.
 ![Alt Text] ((![Alt Text] (./assets/gif/ReadNe Generator.gif)))
 
 ## License
-This project is license under MIT
+This project is license under MIT9
 
 ## Contributing
 Users can contribute suggestions and other helpful additions to the project
