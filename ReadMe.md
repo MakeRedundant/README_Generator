@@ -22,7 +22,7 @@ and run the index.js in the terminal.
 Users can use the terminal to answer questions about their project with Inquirer. The responses will 
 be saved and a ReadMe file will be generated.
 ## Screenshot
-![Alt Text] ((![Alt Text] (./assets/gif/ReadNe Generator.gif)))
+![Alt Text] (./assets/gif/ReadNe Generator.gif)
 
 ## License
 This project is license under MIT9
