@@ -26,7 +26,7 @@ be saved and a ReadMe file will be generated.
 ![ReadMe_Gif](./assets/gif/ReadMe%20Generator.gif)
 
 ## Screen castify link
-https://drive.google.com/file/d/1M7CdPnouJW0yJkPZtiNSirqIJqXbKpcY/view
+https://drive.google.com/file/d/1PTYx6p0bFTAyru4TRihbT58r7dJeyoeo/view
 ## License
 This project is license under MIT9
 
