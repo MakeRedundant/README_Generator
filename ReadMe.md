@@ -28,7 +28,7 @@ be saved and a ReadMe file will be generated.
 ## Screen castify link
 https://drive.google.com/file/d/1PTYx6p0bFTAyru4TRihbT58r7dJeyoeo/view
 ## License
-This project is license under MIT9
+This project is license under MIT
 
 ## Contributing
 Users can contribute suggestions and other helpful additions to the project
