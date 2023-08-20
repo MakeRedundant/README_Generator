@@ -7,6 +7,15 @@ const generateReadMe = (data) => {
     
 ## 📄 Description 
 ${data.description}
+
+## 🪛 Technologies used 
+<p><a href="https://nodejs.org/">Node.js</a></p>
+<p><a href="https://www.npmjs.com/">NPM</a></p>
+<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
+<p><a href="https://www.npmjs.com/package/mysql2">MySQL2</a></p>
+<p><a href="https://www.npmjs.com/package/sequelize">Sequelize</a></p>
+<p><a href="https://www.npmjs.com/package/dotenv">dotenv</a></p>
+<p><a href="https://heroku.com/">Heroku</a></p>
   
 ## 📓 Table of Contents
 * [Installation](#installation)
@@ -40,17 +49,8 @@ ${data.contributing}
   
 ## 🛠️ Tests
 ${data.tests}
-
-## 🪛 Technologies used 
-<p><a href="https://nodejs.org/">Node.js</a></p>
-<p><a href="https://www.npmjs.com/">NPM</a></p>
-<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
-<p><a href="https://www.npmjs.com/package/mysql2">MySQL2</a></p>
-<p><a href="https://www.npmjs.com/package/sequelize">Sequelize</a></p>
-<p><a href="https://www.npmjs.com/package/dotenv">dotenv</a></p>
-<p><a href="https://heroku.com/">Heroku</a></p>
-  
-## Questions
+ 
+## ❔ Questions
 If you have any questions about this project, please contact me directly at ${
     data.email
   }. Feel free to view more of my projects at https://github.com/${
