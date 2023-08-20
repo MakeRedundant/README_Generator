@@ -1,40 +1,49 @@
-# ReadMe Generator
+# Work
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 ![Inquirer Version](https://img.shields.io/badge/Inquirer-8.2.4-blue.svg)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-100%25-yellow.svg)
 ![File System](https://img.shields.io/badge/File%20System-Implemented-green.svg)
     
-## Description 
-Professional ReadMe Generator for projects, ReadMe files will be generated in the output folder
+## 📄 Description 
+da
   
-## Table of Contents
+## 📓 Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Screenshot](#screenshot)
 * [License](#license)
 * [Contributing](#contributing)
- * [Tests](#tests)
+* [Tests](#tests)
 * [Questions](#questions)
     
- ## Installation 
- The user will require Node.js , File system and the inquirer module afterwhich users can clone the repository from Github and run the index.js in the terminal.
+## 🖥️ Installation 
+ da
   
-## Usage 
-Users can use the terminal to answer questions about their project with Inquirer. The responses will be saved and a ReadMe file will be generated.
+## 💬 Usage 
+da
 
 
 ## Screenshot
-![Alt Text] (![Alt Text]  (./assets/gif/your Gif here))
+![Alt Text] (![Alt Text] (./assets/gif/your Gif here))
 
   
-## License 
+## ⚖️ License 
 This project is licensed under MIT
   
-## Contributing 
- Users can contribute suggestions and other helpful additions to the project
+## 🤝 Contributing 
+dad
   
-## Tests
-npm test using the Jest Testing Framework
+## 🛠️ Tests
+dad
+
+## 🪛 Technologies used 
+<p><a href="https://nodejs.org/">Node.js</a></p>
+<p><a href="https://www.npmjs.com/">NPM</a></p>
+<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
+<p><a href="https://www.npmjs.com/package/mysql2">MySQL2</a></p>
+<p><a href="https://www.npmjs.com/package/sequelize">Sequelize</a></p>
+<p><a href="https://www.npmjs.com/package/dotenv">dotenv</a></p>
+<p><a href="https://heroku.com/">Heroku</a></p>
   
 ## Questions
-If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/MakeRedundant.
+If you have any questions about this project, please contact me directly at asdead@sa. Feel free to view more of my projects at https://github.com/dada.
