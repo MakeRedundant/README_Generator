@@ -23,7 +23,7 @@ Professional ReadMe Generator for projects, ReadMe files will be generated in th
 - [Video](#Video)
 - [License](#License)
 - [Contributing](#Contributing)
-- [Tests](#tests)
+- [Tests](#Tests)
 - [Questions](#Questions)
 
 ## 🖥️Installation
@@ -48,7 +48,7 @@ https://drive.google.com/file/d/1PTYx6p0bFTAyru4TRihbT58r7dJeyoeo/view
 
 ## ⚖️License 
 
-This project is license under MIT
+This project is licensed under MIT
 
 ## 🤝Contributing 
 
