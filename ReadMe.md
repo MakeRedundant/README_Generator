@@ -26,38 +26,38 @@ Professional ReadMe Generator for projects, ReadMe files will be generated in th
 - [Tests](#tests)
 - [Questions](#Questions)
 
-## 🖥️ Installation
+## 🖥️Installation
 
 The user will require Node.js , File system and the inquirer module afterwhich users can clone the repository from Github
 First run ```npm install```
 Second run ```node index.js``` (within the assets folder)
 Answer the inquirer prompts and the generated README will be in the output folder.
 
-## 💬 Usage
+## 💬Usage
 
 Users can use the terminal to answer questions about their project with Inquirer. The responses will
 be saved and a ReadMe file will be generated.
 
-## 🖼️ Screenshot
+## 🖼️Screenshot
 
 ![ReadMe_Gif](./assets/gif/ReadMe%20Generator.gif)
 
-## 📹 Video
+## 📹Video
 
 https://drive.google.com/file/d/1PTYx6p0bFTAyru4TRihbT58r7dJeyoeo/view
 
-## ⚖️ License 
+## ⚖️License 
 
 This project is license under MIT
 
-## 🤝 Contributing 
+## 🤝Contributing 
 
 Users can contribute suggestions and other helpful additions to the project
 
-## 🛠️ Tests
+## 🛠️Tests
 
 npm test using the Jest Testing Framework
 
-## ❔ Questions
+## ❔Questions
 
 If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/MakeRedundant.
