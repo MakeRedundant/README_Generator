@@ -18,14 +18,14 @@ ${data.description}
 <p><a href="https://heroku.com/">Heroku</a></p>
   
 ## 📓 Table of Contents
-- [Installation](#🖥️Installation)
-- [Usage](#💬Usage)
-- ${data.includeScreenshot ? "[Screenshot](#🖼️Screenshot)" : ""}
-- [Video](#📹Video)
-- [License](#⚖️License)
-- [Contributing](#🤝Contributing)
-- [Tests](#🛠️Tests)
-- [Questions](#❔Questions)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- ${data.includeScreenshot ? "[Screenshot](#Screenshot)" : ""}
+- [Video](#Video)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [Questions](#Questions)
     
 ## 🖥️ Installation 
  ${data.installation}
