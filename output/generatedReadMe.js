@@ -19,13 +19,13 @@ ${data.description}
   
 ## 📓 Table of Contents
 - [Installation](#🖥️Installation)
-- [Usage](#💬usage)
-- ${data.includeScreenshot ? "[Screenshot](#🖼️screenshot)" : ""}
+- [Usage](#💬Usage)
+- ${data.includeScreenshot ? "[Screenshot](#🖼️Screenshot)" : ""}
 - [Video](#📹Video)
-- [License](#⚖️license)
-- [Contributing](#🤝contributing)
-- [Tests](#🛠️tests)
-- [Questions](#❔questions)
+- [License](#⚖️License)
+- [Contributing](#🤝Contributing)
+- [Tests](#🛠️Tests)
+- [Questions](#❔Questions)
     
 ## 🖥️ Installation 
  ${data.installation}
