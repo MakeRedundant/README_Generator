@@ -17,14 +17,14 @@ Professional ReadMe Generator for projects, ReadMe files will be generated in th
 
 ## 📓 Table of Contents
 
-- [Installation](#🖥️Installation)
-- [Usage](#💬usage)
-- [Screenshot](#🖼️screenshot)
-- [Video](#📹Video)
-- [License](#⚖️license)
-- [Contributing](#🤝contributing)
-- [Tests](#🛠️tests)
-- [Questions](#❔questions)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Screenshot](#Screenshot)
+- [Video](#Video)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Tests](#tests)
+- [Questions](#Questions)
 
 ## 🖥️ Installation
 
