@@ -29,7 +29,9 @@ Professional ReadMe Generator for projects, ReadMe files will be generated in th
 ## 🖥️ Installation
 
 The user will require Node.js , File system and the inquirer module afterwhich users can clone the repository from Github
-and run the index.js in the terminal.
+First run ```npm install```
+Second run ```node index.js``` (within the assets folder)
+Answer the inquirer prompts and the generated README will be in the output folder.
 
 ## 💬 Usage
 
