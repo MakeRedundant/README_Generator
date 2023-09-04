@@ -18,13 +18,13 @@ ${data.description}
 <p><a href="https://heroku.com/">Heroku</a></p>
   
 ## 📓 Table of Contents
-- [Installation](#Installation)
+- [Installation](#%EF%B8%8FInstallation)
 - [Usage](#Usage)
-- ${data.includeScreenshot ? "[Screenshot](#Screenshot)" : ""}
+- ${data.includeScreenshot ? "[Screenshot](#%EF%B8%8FScreenshot)" : ""}
 - [Video](#Video)
-- [License](#License)
+- [License](#%EF%B8%8FLicense)
 - [Contributing](#Contributing)
-- [Tests](#Tests)
+- [Tests](#%EF%B8%8FTests)
 - [Questions](#Questions)
     
 ## 🖥️ Installation 

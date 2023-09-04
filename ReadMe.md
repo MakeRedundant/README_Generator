@@ -16,7 +16,6 @@ Professional ReadMe Generator for projects, ReadMe files will be generated in th
 <p><a href="https://www.npmjs.com/package/inquirer">Inquirer</a></p>
 
 ## 📓 Table of Contents
-
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Screenshot](#Screenshot)
