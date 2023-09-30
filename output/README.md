@@ -1,11 +1,11 @@
-# nk
+# Text
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 ![Inquirer Version](https://img.shields.io/badge/Inquirer-8.2.4-blue.svg)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-100%25-yellow.svg)
 ![File System](https://img.shields.io/badge/File%20System-Implemented-green.svg)
     
 ## 📄 Description 
-nk
+da
 
 ## 🪛 Technologies used 
 <p><a href="https://nodejs.org/">Node.js</a></p>
@@ -17,24 +17,24 @@ nk
 <p><a href="https://heroku.com/">Heroku</a></p>
   
 ## 📓 Table of Contents
-- [Installation](#Installation)
+- [Installation](#%EF%B8%8FInstallation)
 - [Usage](#Usage)
-- [Screenshot](#Screenshot)
+- [Screenshot](#%EF%B8%8FScreenshot)
 - [Video](#Video)
-- [License](#License)
+- [License](#%EF%B8%8FLicense)
 - [Contributing](#Contributing)
-- [Tests](#Tests)
+- [Tests](#%EF%B8%8FTests)
 - [Questions](#Questions)
     
 ## 🖥️ Installation 
- nk
+ da
   
 ## 💬 Usage 
-nk
+dada
 
 
 ## 🖼️ Screenshot
-![Alt Text] (nk)
+![Alt Text] (![Alt Text] (./assets/gif/your Gif here))
 
 
 ## 📹 Video
@@ -43,10 +43,10 @@ nk
 This project is licensed under MIT
   
 ## 🤝 Contributing 
-nk
+da
   
 ## 🛠️ Tests
-nk
+dada
  
 ## ❔ Questions
-If you have any questions about this project, please contact me directly at n@. Feel free to view more of my projects at https://github.com/k.
+If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/MakeRedundant.

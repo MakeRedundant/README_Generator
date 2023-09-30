@@ -28,8 +28,17 @@ Professional ReadMe Generator for projects, ReadMe files will be generated in th
 ## 🖥️Installation
 
 The user will require Node.js , File system and the inquirer module afterwhich users can clone the repository from Github
-First run ```npm install```
-Second run ```node index.js``` (within the assets folder)
+First run 
+```pip
+ npm install 
+```
+To install the dependencies
+
+Second run
+```pip
+ node index.js 
+```
+(within the assets folder)
 Answer the inquirer prompts and the generated README will be in the output folder.
 
 ## 💬Usage
@@ -54,7 +63,10 @@ This project is licensed under MIT
 Users can contribute suggestions and other helpful additions to the project
 
 ## 🛠️Tests
-
+To run testing use the command:
+```pip
+npm test
+```
 npm test using the Jest Testing Framework
 
 ## ❔Questions
