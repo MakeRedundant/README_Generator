@@ -1,4 +1,9 @@
 # ReadMe Generator
+![](https://forthebadge.com/images/badges/built-with-love.svg)
+![](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
+![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+![](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
 ## 📄 Description
 
@@ -16,14 +21,18 @@ Professional ReadMe Generator for projects, ReadMe files will be generated in th
 <p><a href="https://www.npmjs.com/package/inquirer">Inquirer</a></p>
 
 ## 📓 Table of Contents
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Screenshot](#Screenshot)
-- [Video](#Video)
-- [License](#License)
-- [Contributing](#Contributing)
-- [Tests](#Tests)
-- [Questions](#Questions)
+- [ReadMe Generator](#readme-generator)
+  - [📄 Description](#-description)
+  - [🪛 Technologies used](#-technologies-used)
+  - [📓 Table of Contents](#-table-of-contents)
+  - [🖥️Installation](#️installation)
+  - [💬Usage](#usage)
+  - [🖼️Screenshot](#️screenshot)
+  - [📹Video](#video)
+  - [⚖️License](#️license)
+  - [🤝Contributing](#contributing)
+  - [🛠️Tests](#️tests)
+  - [❔Questions](#questions)
 
 ## 🖥️Installation
 
