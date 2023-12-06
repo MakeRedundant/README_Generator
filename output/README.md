@@ -1,4 +1,4 @@
-# Live2D Project
+# Todo App -Vue
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
@@ -13,7 +13,7 @@
 
 
 ## 📄 Description 
-dada
+todo
 
 ## 🪛 Technologies used 
 <p><a href="https://nodejs.org/">Node.js</a></p>
@@ -35,10 +35,10 @@ dada
 - [Questions](#Questions)
     
 ## 🖥️ Installation 
- npm
+ npm i
   
 ## 💬 Usage 
-use it
+da
 
 
 ## 🖼️ Screenshot
@@ -57,4 +57,4 @@ da
 N/A
  
 ## ❔ Questions
-If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/Makeredundant.
+If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/MakeRedundant.
