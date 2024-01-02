@@ -1,4 +1,4 @@
-# dada
+# kl
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
@@ -17,7 +17,7 @@
 - [🪛 Technologies used](#-technologies-used)
 - [🖥️ Installation](#️installation)
 - [💬Usage](#usage)
-- [🖼️ Screenshot](#%EF%B8%8FScreenshot)
+- 
 - [📹Video](#video)
 - [⚖️ License](#️license)
 - [🤝Contributing](#contributing)
@@ -28,7 +28,7 @@
 This is the Lighthouse Google report showcasing Performance 🚀, Accessibility ♿️, Best practices ✅, and SEO 🔍.
 
 ## 📄 Description 
-dada
+kl
 
 ## 🪛 Technologies used 
 | Technology              | Description                           | Link                                       |
@@ -56,14 +56,12 @@ dada
   
     
 ## 🖥️ Installation 
- fgrd
+ kl
   
 ## 💬 Usage 
-gff
+kl
 
 
-## 🖼️ Screenshot
-![Alt Text] (![Alt Text] (./assets/gif/your Gif here))
 
 
 ## 📹 Video
@@ -72,10 +70,10 @@ gff
 This project is licensed under MIT
   
 ## 🤝 Contributing 
-fd
+kl
   
 ## 🛠️ Tests
-dffd
+kl
  
 ## ❔ Questions
-If you have any questions about this project, please contact me directly at da@. Feel free to view more of my projects at https://github.com/da.
+If you have any questions about this project, please contact me directly at nk@. Feel free to view more of my projects at https://github.com/nk.

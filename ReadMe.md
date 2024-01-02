@@ -14,17 +14,11 @@ Professional ReadMe Generator for projects, ReadMe files will be generated in th
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-100%25-yellow.svg)
 ![File System](https://img.shields.io/badge/File%20System-Implemented-green.svg)
 
-## 🪛 Technologies used 
-<p><a href="https://nodejs.org/">Node.js</a></p>
-<p><a href="https://www.npmjs.com/">NPM</a></p>
-<p><a href="https://nodejs.org/api/fs.html">File System</a></p>
-<p><a href="https://www.npmjs.com/package/inquirer">Inquirer</a></p>
-
 ## 📓 Table of Contents
 - [ReadMe Generator](#readme-generator)
   - [📄 Description](#-description)
-  - [🪛 Technologies used](#-technologies-used)
   - [📓 Table of Contents](#-table-of-contents)
+  - [🪛 Technologies used](#-technologies-used)
   - [🖥️Installation](#️installation)
   - [💬Usage](#usage)
   - [🖼️Screenshot](#️screenshot)
@@ -33,6 +27,16 @@ Professional ReadMe Generator for projects, ReadMe files will be generated in th
   - [🤝Contributing](#contributing)
   - [🛠️Tests](#️tests)
   - [❔Questions](#questions)
+
+## 🪛 Technologies used 
+
+| Technology                   | Description                                 | Link                                                   |
+|------------------------------|---------------------------------------------|--------------------------------------------------------|
+| Node.js                      | Server-side JavaScript runtime               | [Node.js](https://nodejs.org/)                          |
+| NPM                          | Node.js Package Manager                     | [NPM](https://www.npmjs.com/)                          |
+| File System                  | Node.js module for file system operations   | [File System](https://nodejs.org/api/fs.html)           |
+| Inquirer                     | Interactive command-line interface          | [Inquirer](https://www.npmjs.com/package/inquirer)     |
+
 
 ## 🖥️Installation
 
