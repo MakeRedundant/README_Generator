@@ -51,7 +51,7 @@ Second run
 ```pip
  npm start
 ```
-This will run the index.js file in the assts folder  
+This will run the index.js file in the assets folder  
 
 Answer the inquirer prompts and the generated README will be in the output folder.
 
