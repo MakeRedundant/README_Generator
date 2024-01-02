@@ -62,9 +62,15 @@ be saved and a ReadMe file will be generated.
 
 ## 🖼️Screenshot
 
-![ReadMe_Gif](./assets/gif/ReadMe%20Generator.gif)
+Screenshot of terminal 
+
+![ReadME](assets/ReadMe.png)
 
 ## 📹Video
+
+Gif showcasing ```npm start``` and answering inquirer questions
+
+![ReadMe_Gif](./assets/gif/ReadMe%20Generator.gif)
 
 https://drive.google.com/file/d/1PTYx6p0bFTAyru4TRihbT58r7dJeyoeo/view
 

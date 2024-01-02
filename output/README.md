@@ -1,4 +1,4 @@
-# kl
+# Fun title
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
@@ -17,7 +17,7 @@
 - [🪛 Technologies used](#-technologies-used)
 - [🖥️ Installation](#️installation)
 - [💬Usage](#usage)
-- 
+- [🖼️ Screenshot](#%EF%B8%8FScreenshot)
 - [📹Video](#video)
 - [⚖️ License](#️license)
 - [🤝Contributing](#contributing)
@@ -28,7 +28,7 @@
 This is the Lighthouse Google report showcasing Performance 🚀, Accessibility ♿️, Best practices ✅, and SEO 🔍.
 
 ## 📄 Description 
-kl
+fun
 
 ## 🪛 Technologies used 
 | Technology              | Description                           | Link                                       |
@@ -56,12 +56,14 @@ kl
   
     
 ## 🖥️ Installation 
- kl
+ npm i
   
 ## 💬 Usage 
-kl
+fun
 
 
+## 🖼️ Screenshot
+![Alt Text] (![Alt Text] (./assets/gif/your Gif here))
 
 
 ## 📹 Video
@@ -70,10 +72,10 @@ kl
 This project is licensed under MIT
   
 ## 🤝 Contributing 
-kl
+No
   
 ## 🛠️ Tests
-kl
+np
  
 ## ❔ Questions
-If you have any questions about this project, please contact me directly at nk@. Feel free to view more of my projects at https://github.com/nk.
+If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/Makeredundant.

@@ -1,10 +1,11 @@
 // require modules
 const fs = require("fs");
+const path = require("path"); // Import the 'path' module
 const inquirer = require("inquirer");
-const generateReadMe = require("../output/generatedReadMe.js");
+const generateReadMe = require(path.resolve(__dirname, "../output/generatedReadMe.js"));
 
 // This is where the ReadMe is made
-const customFilePath = "../output/README.md"; // Sets to the output folder
+const customFilePath = path.resolve(__dirname, "../output/README.md"); // Sets to the output folder
 
 const UserQuestions = () => {
   return inquirer.prompt([
