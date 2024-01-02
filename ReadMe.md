@@ -49,9 +49,10 @@ To install the dependencies
 
 Second run
 ```pip
- node index.js 
+ npm start
 ```
-(within the assets folder)
+This will run the index.js file in the assts folder  
+
 Answer the inquirer prompts and the generated README will be in the output folder.
 
 ## 💬Usage
