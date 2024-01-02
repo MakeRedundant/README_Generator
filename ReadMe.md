@@ -72,6 +72,8 @@ Gif showcasing ```npm start``` and answering inquirer questions
 
 ![ReadMe_Gif](./assets/gif/ReadMe%20Generator.gif)
 
+Google Drive link to screencap recording  
+
 https://drive.google.com/file/d/1PTYx6p0bFTAyru4TRihbT58r7dJeyoeo/view
 
 ## ⚖️License 
