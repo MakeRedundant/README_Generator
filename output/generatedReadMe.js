@@ -16,14 +16,14 @@ const generateReadMe = (data) => {
 - [💡🏡 Lighthouse](#-lighthouse)
 - [📄 Description](#-description)
 - [🪛 Technologies used](#-technologies-used)
-- [Installation](#%EF%B8%8FInstallation)
-- [Usage](#Usage)
-- ${data.includeScreenshot ? "[Screenshot](#%EF%B8%8FScreenshot)" : ""}
-- [Video](#Video)
-- [License](#%EF%B8%8FLicense)
-- [Contributing](#Contributing)
-- [Tests](#%EF%B8%8FTests)
-- [Questions](#Questions)
+- [🖥️ Installation](#️installation)
+- [💬Usage](#usage)
+- ${data.includeScreenshot ? "[🖼️ Screenshot](#%EF%B8%8FScreenshot)" : ""}
+- [📹Video](#video)
+- [⚖️ License](#️license)
+- [🤝Contributing](#contributing)
+- [🛠️ Tests](#️tests)
+- [❔Questions](#questions)
 
 ## 💡🏡 Lighthouse
 This is the Lighthouse Google report showcasing Performance 🚀, Accessibility ♿️, Best practices ✅, and SEO 🔍.
