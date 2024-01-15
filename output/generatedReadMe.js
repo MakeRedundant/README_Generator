@@ -58,7 +58,27 @@ ${data.description}
     
 ## 🖥️ Installation 
  ${data.installation}
-  
+
+ // This code is used to include package information in the README
+// and is intentionally marked as unreachable.  
+//Remember to replace comments and /* with ``` ```
+
+// Vite
+/* pip
+npm create vite@latest
+*/
+
+// ESLint
+/* pip
+npm i eslint
+*/
+
+// Package.json dependencies ⚙️
+/* pip
+    ... other dependencies
+    "react-on-screen": "^2.1.1"
+*/
+
 ## 💬 Usage 
 ${data.usage}
 
