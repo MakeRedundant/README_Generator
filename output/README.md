@@ -1,4 +1,4 @@
-# Fun title
+# Example
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
@@ -28,7 +28,7 @@
 This is the Lighthouse Google report showcasing Performance 🚀, Accessibility ♿️, Best practices ✅, and SEO 🔍.
 
 ## 📄 Description 
-fun
+Example
 
 ## 🪛 Technologies used 
 | Technology              | Description                           | Link                                       |
@@ -57,9 +57,30 @@ fun
     
 ## 🖥️ Installation 
  npm i
-  
+
+This code is used to include package information in the README
+and is intentionally marked as unreachable.  
+Remember to replace comments and to add triplebackticks in front of pip  
+to generate codeblocks in readme
+
+Vite
+pip
+npm create vite@latest
+
+
+ESLint
+pip
+npm i eslint
+
+
+Package.json dependencies ⚙️
+pip
+    ... other dependencies
+    "react-on-screen": "^2.1.1"
+
+    
 ## 💬 Usage 
-fun
+N/A
 
 
 ## 🖼️ Screenshot
@@ -72,10 +93,10 @@ fun
 This project is licensed under MIT
   
 ## 🤝 Contributing 
-No
+N/A
   
 ## 🛠️ Tests
-np
+N/A
  
 ## ❔ Questions
 If you have any questions about this project, please contact me directly at brian.trang9@gmail.com. Feel free to view more of my projects at https://github.com/Makeredundant.
