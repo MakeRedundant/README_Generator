@@ -1,4 +1,4 @@
-# Example
+# WFH-Oasis
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
@@ -28,7 +28,7 @@
 This is the Lighthouse Google report showcasing Performance 🚀, Accessibility ♿️, Best practices ✅, and SEO 🔍.
 
 ## 📄 Description 
-Example
+E-Commerce
 
 ## 🪛 Technologies used 
 | Technology              | Description                           | Link                                       |
@@ -56,31 +56,31 @@ Example
   
     
 ## 🖥️ Installation 
- npm i
+ npm install
 
 This code is used to include package information in the README
 and is intentionally marked as unreachable.  
 Remember to replace comments and to add triplebackticks in front of pip  
-to generate codeblocks in readme
+to generate codeblocks in readme markdown format
 
-Vite
-pip
+Vite  
+pip  
 npm create vite@latest
+  
+
+ESLint  
+pip  
+npm i eslint  
+  
+
+Package.json dependencies ⚙️  
+pip  
+    ... other dependencies  
+    "react-on-screen": "^2.1.1"  
 
 
-ESLint
-pip
-npm i eslint
-
-
-Package.json dependencies ⚙️
-pip
-    ... other dependencies
-    "react-on-screen": "^2.1.1"
-
-    
 ## 💬 Usage 
-N/A
+Fun
 
 
 ## 🖼️ Screenshot
