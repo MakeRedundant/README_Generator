@@ -14,7 +14,7 @@ ${data.description}
 
 ![Github licence](http://img.shields.io/badge/license-${data.license}-blue.svg)
 ![Inquirer Version](https://img.shields.io/badge/Inquirer-8.2.4-blue.svg)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-100%25-yellow.svg)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg)
 ![File System](https://img.shields.io/badge/File%20System-Implemented-green.svg)
 
 ## 📓 Table of Contents

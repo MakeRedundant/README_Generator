@@ -13,21 +13,23 @@ example
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 ![Inquirer Version](https://img.shields.io/badge/Inquirer-8.2.4-blue.svg)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-100%25-yellow.svg)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg)
 ![File System](https://img.shields.io/badge/File%20System-Implemented-green.svg)
 
 ## 📓 Table of Contents
-- [💡🏡 Lighthouse](#-lighthouse)
-- [📄 Description](#-description)
-- [🪛 Technologies used](#-technologies-used)
-- [🖥️ Installation](#️installation)
-- [💬Usage](#usage)
-- [🖼️ Screenshot](#%EF%B8%8FScreenshot)
-- [📹Video](#video)
-- [⚖️ License](#️license)
-- [🤝Contributing](#contributing)
-- [🛠️ Tests](#️tests)
-- [❔Questions](#questions)
+- [example](#example)
+  - [📄 Description](#-description)
+  - [📓 Table of Contents](#-table-of-contents)
+  - [💡🏡 Lighthouse](#-lighthouse)
+  - [🪛 Technologies used](#-technologies-used)
+  - [🖥️ Installation](#️-installation)
+  - [💬 Usage](#-usage)
+  - [🖼️ Screenshot](#️-screenshot)
+  - [📹 Video](#-video)
+  - [⚖️ License](#️-license)
+  - [🤝 Contributing](#-contributing)
+  - [🛠️ Tests](#️-tests)
+  - [❔ Questions](#-questions)
 
 ## 💡🏡 Lighthouse
 This is the Lighthouse Google report showcasing Performance 🚀, Accessibility ♿️, Best practices ✅, and SEO 🔍.
