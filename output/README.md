@@ -1,7 +1,7 @@
-# example
+# Example
 
-  ## 📄 Description 
-example
+## 📄 Description 
+Example
 
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
@@ -17,19 +17,17 @@ example
 ![File System](https://img.shields.io/badge/File%20System-Implemented-green.svg)
 
 ## 📓 Table of Contents
-- [example](#example)
-  - [📄 Description](#-description)
-  - [📓 Table of Contents](#-table-of-contents)
-  - [💡🏡 Lighthouse](#-lighthouse)
-  - [🪛 Technologies used](#-technologies-used)
-  - [🖥️ Installation](#️-installation)
-  - [💬 Usage](#-usage)
-  - [🖼️ Screenshot](#️-screenshot)
-  - [📹 Video](#-video)
-  - [⚖️ License](#️-license)
-  - [🤝 Contributing](#-contributing)
-  - [🛠️ Tests](#️-tests)
-  - [❔ Questions](#-questions)
+- [💡🏡 Lighthouse](#-lighthouse)
+- [📄 Description](#-description)
+- [🪛 Technologies used](#-technologies-used)
+- [🖥️ Installation](#️installation)
+- [💬Usage](#usage)
+- [🖼️ Screenshot](#%EF%B8%8FScreenshot)
+- [📹Video](#video)
+- [⚖️ License](#️license)
+- [🤝Contributing](#contributing)
+- [🛠️ Tests](#️tests)
+- [❔Questions](#questions)
 
 ## 💡🏡 Lighthouse
 This is the Lighthouse Google report showcasing Performance 🚀, Accessibility ♿️, Best practices ✅, and SEO 🔍.
@@ -61,7 +59,7 @@ This is the Lighthouse Google report showcasing Performance 🚀, Accessibility 
   
     
 ## 🖥️ Installation 
- N/A
+ Example
 
 This code is used to include package information in the README
 and is intentionally marked as unreachable.  
