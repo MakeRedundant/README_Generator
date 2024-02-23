@@ -1,5 +1,10 @@
 const generateReadMe = (data) => {
   return `# ${data.title}
+
+## 📄 Description 
+${data.description}
+
+
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
@@ -28,8 +33,6 @@ const generateReadMe = (data) => {
 ## 💡🏡 Lighthouse
 This is the Lighthouse Google report showcasing Performance 🚀, Accessibility ♿️, Best practices ✅, and SEO 🔍.
 
-## 📄 Description 
-${data.description}
 
 ## 🪛 Technologies used 
 | Technology              | Description                           | Link                                       |
